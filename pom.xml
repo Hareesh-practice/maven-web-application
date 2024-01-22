@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICIBank Snapshot Nexus Repository </name>
-	      <url>http://172.31.37.214:9980/hareesh/repository/icicibank-snapshot/</url>
+	      <url>http//172.31.37.214:9980/hareesh/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
