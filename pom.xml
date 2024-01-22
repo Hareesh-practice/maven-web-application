@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICICIBank Releases Nexus Repository</name>
-	      <url>http://172.31.37.214:9980/hareesh/repository/icicibank-release/</url>
+	      <url>http://51.20.12.182:9980/hareesh/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICIBank Snapshot Nexus Repository </name>
-	      <url>http//172.31.37.214:9980/hareesh/repository/icicibank-snapshot/</url>
+	      <url>http://51.20.12.182:9980/hareesh/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
